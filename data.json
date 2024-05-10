@@ -1,0 +1,39 @@
+{
+    "just": {
+        "some": ["random"]
+    },
+    "data": true,
+    "coolstuff": {
+        "powers": [
+            {
+                "name": "aerokinesis",
+                "description": [
+                    "Aerokinesis is the ability to manipulate the density and flow of air, often including all gases, though sometimes limited to only nitrogen, oxygen carbon dioxide, and so on from our own native environment."
+                ]
+            },
+            {
+                "name": "electrokinesis",
+                "description": [
+                    "Electrokinesis is the ability to manipulate the subatomic particles known as “electrons”."
+                ]
+            },
+            {
+                "name": "topokinesis",
+                "description": [
+                    "Topokinesis is the ability to shape the topology of an environment to one's will."
+                ]
+            }
+        ],
+        "dependencies": {
+            "wensleydale cheese": { "kilograms": 40, "per": "day" },
+            "wacky contraptions": { "count": 100, "per": "hour" },
+            "doggo companion": { "count": 1, "per": "always" }
+        },
+        "quotes": [
+            {
+                "quote": "Lovely wensleydale, Gromit!",
+                "by": "Wallace"
+            }
+        ]
+    }
+}

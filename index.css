@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    font-size: 14pt;
+}
+
+body div {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+pre#data {
+    background-color: rgba(127, 127, 127, 0.5);
+    padding: 12px 10px;
+    border-radius: 5px;
+    text-align: left;
+    overflow-x: auto;
+}
